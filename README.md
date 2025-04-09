@@ -34,7 +34,7 @@ Sou comprometido com a excelência técnica e estou sempre em busca de novos apr
   align="left"
   alt="css"
   title="aws"
-  width="30px"
+  width="50px"
   style="padding-right; 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 
@@ -42,7 +42,7 @@ Sou comprometido com a excelência técnica e estou sempre em busca de novos apr
   align="left"
   alt="css"
   title="mysql"
-  width="30px"
+  width="50px"
   style="padding-right; 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
@@ -50,7 +50,7 @@ Sou comprometido com a excelência técnica e estou sempre em busca de novos apr
   align="left"
   alt="css"
   title="oracle"
-  width="30px"
+  width="50px"
   style="padding-right; 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
   
@@ -58,7 +58,7 @@ Sou comprometido com a excelência técnica e estou sempre em busca de novos apr
   align="left"
   alt="css"
   title="python"
-  width="30px"
+  width="50px"
   style="padding-right; 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
 
@@ -66,7 +66,7 @@ Sou comprometido com a excelência técnica e estou sempre em busca de novos apr
   align="left"
   alt="css"
   title="sqlserver"
-  width="30px"
+  width="50px"
   style="padding-right; 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
 
@@ -74,7 +74,7 @@ Sou comprometido com a excelência técnica e estou sempre em busca de novos apr
   align="left"
   alt="css"
   title="visualstudio"
-  width="30px"
+  width="50px"
   style="padding-right; 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 
@@ -84,13 +84,13 @@ Sou comprometido com a excelência técnica e estou sempre em busca de novos apr
  <img
   align="left"
   alt="Github Starts"
-  height="200"
+  height= "180"
   style="padding-right: 10px;"
   src="https://github-readme-stats.vercel.app/api?username=gusttavobarretto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
 
   <img
   align="left"
   alt="Github Starts"
-  height="200"
+  height="180"
   style="padding-right: 10px;"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttavobarretto&theme=tokyonight&layout-compact&custom_title=Tecnologias&langs-count=1" />
